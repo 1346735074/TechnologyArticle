@@ -67,3 +67,9 @@ systemctl restart docker
   ]
 }
 ```
+> idea docker 控制台
+
+以上步骤完成就可以使用idea docker console了。
+
+功能包含：日志查看，镜像启动停止等。
+![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/docker-run-p.png)
