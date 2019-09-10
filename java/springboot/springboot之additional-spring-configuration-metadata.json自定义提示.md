@@ -64,7 +64,7 @@ The majority of the metadata file is generated automatically at compile time by 
 
 在`resources/META-INF`目录下创建`additional-spring-configuration-metadata.json`
 
-![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/swagger-ml.png)
+![image.png](https://raw.githubusercontent.com/purgeyao/TechnologyArticle/master/A-IMG/swagger-ml.png)
 
 内容大致如下:
 
@@ -160,7 +160,7 @@ public class SwaggerProperties {
 ```
 
 现在就可以在`application.properties`文件里尝试提示。
-![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/swagger-tis.png)
+![image.png](https://raw.githubusercontent.com/purgeyao/TechnologyArticle/master/A-IMG/swagger-tis.png)
 
 ## 总结
 

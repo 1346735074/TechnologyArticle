@@ -155,9 +155,9 @@ public class SwaggerProperties {
 ```
 
 做好这两件事情基本大工搞成了，为了更好的使用配置，在idea里和官方`starter`包一样，我们还需要配置一个`additional-spring-configuration-metadata.json`,让我们自己的配置也具有提示的功能，具体介绍请产考：[配置提示](https://segmentfault.com/a/1190000020247777) [配置提示](https://blog.csdn.net/weixin_43367055/article/details/100174407) [配置提示](https://juejin.im/post/5d6a3250518825618e67a4a9) [配置提示](https://www.cnblogs.com/Purgeyao/p/11439555.html) [配置提示](https://my.oschina.net/u/4185467/blog/3100215) ...
-![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/swagger-ml.png)
+![image.png](https://raw.githubusercontent.com/purgeyao/TechnologyArticle/master/A-IMG/swagger-ml.png)
 
-![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/swagger-tis.png)
+![image.png](https://raw.githubusercontent.com/purgeyao/TechnologyArticle/master/A-IMG/swagger-tis.png)
 
 
 ### 3. 加载SwaggerConfig等特性
@@ -225,7 +225,7 @@ public class FrontDemoApplication {
 ```
 访问`http://ip:端口/swagger-ui.html`检查swagger-ui是否正常。
 
-![image.png](https://raw.githubusercontent.com/1346735074/TechnologyArticle/master/A-IMG/swagger-ui.png)
+![image.png](https://raw.githubusercontent.com/purgeyao/TechnologyArticle/master/A-IMG/swagger-ui.png)
 
 # 总结
 
